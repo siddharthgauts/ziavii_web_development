@@ -1,6 +1,6 @@
 # Ziavii Website complete UI 
 
-Website link : https://siddharthgauts.github.io/ziavii_web_development/
+Website link: https://siddharthgauts.github.io/ziavii_web_development/
 <br>
 <br>
 Note: Code is pushed to master branch
